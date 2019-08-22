@@ -1,0 +1,16 @@
+<case>
+    <caseProperties>
+        <property name="UREruleSetId">703D5F72-157D-063A-4BFA-44C78E883CD4</property>
+    </caseProperties>
+    <caseData>
+        <entity type="case" name="1">
+        </entity>
+        <entity type="life" name="1" parentEntity="case_1">
+            <attribute name="RISK_TYPES" value="Lif"/>
+            <attribute name="UNDERWRITING_METHOD" value="FULL_UW_LIFE"/>
+            <aggregate type="RISK_BASED_VALUES" name="Lif">
+            </aggregate>
+        </entity>
+    </caseData>
+</case>
+
